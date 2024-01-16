@@ -10,7 +10,7 @@ Our MdAFuse as shown in ``model/framework/Fig2.pdf``, which is implemented in ``
 
 
 ## 🌐 Usage
-If you have any questions or need help, please contact me (wjy1361120721@163.com)
+If you have any questions or need help, please contact me (wjy1361120721@163.com), thank you!
 
 ### 🏊 Training
 
