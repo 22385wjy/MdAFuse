@@ -2,7 +2,7 @@
 Codes for ***MdAFuse: -- -- --- --Image Fusion. (IEEE TRANSACTIONS ON = = = 2024)***
 
 
-## 🙌 CDDFuse
+## 🙌 MdAFuse
 
 ### ⚙ Network Architecture
 
