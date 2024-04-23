@@ -1,5 +1,5 @@
 # MdAFuse   ## Wait to Update
-Codes for ***MdAFuse: -- -- --- --Image Fusion. (IEEE TRANSACTIONS ON = = = 2024)***
+Codes for ***MdAFuse: -- -- --- --Image Fusion. (IEEE TRANSACTIONS ON MAGE PROCESSING 2024)***
 
 
 ## 🙌 MdAFuse
@@ -41,9 +41,9 @@ The testing results will be printed in the terminal and in ``testResults/``.
 ## Citation--- Wait to Update
 ```
 @article{***,
-  title={MdAFuse: *****},
-  author={************},
-  journal={IEEE Transactions on *************},
+  title={High-Quality Fusion and Visualization for MR-PET Brain Tumor Images via Multi-Dimensional Features},
+  author={Jinyu Wen, Asad Khan, Amei Chen, Weilong Peng, Meie Fang, C. L. Philip Chen, and Ping Li},
+  journal={IEEE Transactions on Image Processing},
   year={2024},
   publisher={IEEE}
 }
