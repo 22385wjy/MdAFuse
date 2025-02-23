@@ -46,7 +46,6 @@ The testing results will be printed in the terminal and in ``testResults/``.
   journal={IEEE Transactions on Image Processing},
   volume={33},
   pages={3550--3563},
-  pages={3550--3563},
   year={2024},
   publisher={IEEE}
 }
