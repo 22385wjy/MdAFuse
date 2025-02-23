@@ -38,13 +38,16 @@ The testing results will be printed in the terminal and in ``testResults/``.
 
 
 
-## Citation--- Wait to Update
-```
-@article{***,
+## Citation--- 
+
+@article{wen_higjquality_2024,
   title={High-Quality Fusion and Visualization for MR-PET Brain Tumor Images via Multi-Dimensional Features},
   author={Jinyu Wen, Asad Khan, Amei Chen, Weilong Peng, Meie Fang, C. L. Philip Chen, and Ping Li},
   journal={IEEE Transactions on Image Processing},
+  volume={33},
+  pages={3550--3563},
+  pages={3550--3563},
   year={2024},
   publisher={IEEE}
 }
-```
+
