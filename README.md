@@ -39,7 +39,8 @@ The testing results will be printed in the terminal and in ``testResults/``.
 
 
 
-## Citation--- 
+## Citation
+If you find this work useful for your research, please cite our paper:
 
 @article{wen_higjquality_2024,
   title={High-Quality Fusion and Visualization for MR-PET Brain Tumor Images via Multi-Dimensional Features},
