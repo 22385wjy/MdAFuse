@@ -1,12 +1,13 @@
-# MdAFuse   ## Wait to Update
-Codes for ***MdAFuse: -- -- --- --Image Fusion. (IEEE TRANSACTIONS ON MAGE PROCESSING 2024)***
+# High-Quality Fusion and Visualization for MR-PET Brain Tumor Images via Multi-Dimensional Features
+IEEE Transactions on Image Processing, 2024
 
 
-## 🙌 MdAFuse
+## 🙌 Overview
+This repository contains the implementation of MdAFuse for medical image fusion.
 
-### ⚙ Network Architecture
+## ⚙ Network Architecture
 
-Our MdAFuse as shown in ``model/framework/Fig2.pdf``, which is implemented in ``model/myNet.py``.
+The overall framework of the proposed MdAFuse is illustrated in ``model/framework/Fig2.pdf``, and the network implementation is provided in ``model/myNet.py``.
 
 
 ## 🌐 Usage
